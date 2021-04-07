@@ -2,15 +2,18 @@
 Proof of Authority Blockchain Development for ZBank, a small, innovative bank that is interested in exploring what
 blockchain technology can do for them and their customers.
 
-I am setting up a testnet as a proof of concept for blockchain usage at ZBank.  
+I am setting up a testnet as a proof of concept for blockchain usage at ZBank using the below tools: 
 
 * Puppeth, to generate your genesis block.
 * Geth, a command-line tool, to create keys, initialize nodes, and connect the nodes together.
-* The Clique Proof of Authority algorithm.
+* Proof of Authority algorithm.
+* MyCrypto Wallet
 
 # Instructions
 
 ### Installing dependencies and environment configuration
+Download and Install MyCrpto to be used key mangaement and crypto wallet - https://download.mycrypto.com/
+Install Go Ethereeum Tools - https://geth.ethereum.org/downloads/
 
 ### Start the Network
     Initialize the nodes
