@@ -4,9 +4,9 @@ blockchain technology can do for them and their customers.
 
 I am setting up a testnet as a proof of concept for blockchain usage at ZBank.  
 
-*Puppeth, to generate your genesis block.
-*Geth, a command-line tool, to create keys, initialize nodes, and connect the nodes together.
-*The Clique Proof of Authority algorithm.
+* Puppeth, to generate your genesis block.
+* Geth, a command-line tool, to create keys, initialize nodes, and connect the nodes together.
+* The Clique Proof of Authority algorithm.
 
 # Instructions
 
