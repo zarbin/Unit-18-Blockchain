@@ -69,6 +69,9 @@ I am setting up a testnet as a proof of concept for blockchain usage at ZBank us
 Network Config
 ![Screenshot](/zbanknet/Screenshots/config.png)
 
+Init Nodes
+![Screenshot](/Images/initnodes.png)
+
 Start Node1
 ![Screenshot](/Images/startnodehw1.png)
 
