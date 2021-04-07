@@ -1,7 +1,13 @@
 # Unit-18-Blockchain
 Proof of Authority Blockchain Development
 
-## Instructions
+# Instructions
 
-# Start the Network
+## Start the Network
+    test
+    
+## Configuration of the Network
+    test
+    
+## MyCrypto Steps
     test
