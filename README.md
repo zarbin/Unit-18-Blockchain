@@ -13,6 +13,7 @@ I am setting up a testnet as a proof of concept for blockchain usage at ZBank us
 
 ### Installing dependencies and environment configuration
 Download and Install MyCrpto to be used key mangaement and crypto wallet - https://download.mycrypto.com/
+
 Install Go Ethereeum Tools - https://geth.ethereum.org/downloads/
 
 ### Start the Network
