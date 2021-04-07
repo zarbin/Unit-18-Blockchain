@@ -67,6 +67,7 @@ Start Node2
 ![Screenshot2](/Images/startnodehw2.png)
 
 Confirm Transaction
+
 ![Screenshot3](/Images/transconfirm.png)
 
 Broadcast Transaction
