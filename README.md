@@ -67,10 +67,10 @@ Start Node2
 ![Screenshot2](/Images/startnodehw2.png)
 
 Confirm Transaction
-![Screenshot2](/Images/transconfirm.png)
+![Screenshot3](/Images/transconfirm.png)
 
 Broadcast Transaction
-![Screenshot2](/Images/transbroadcast.png)
+![Screenshot4](/Images/transbroadcast.png)
 
 Transaction Status
-![Screenshot2](/Images/sendtrans.png)
+![Screenshot5](/Images/sendtrans.png)
