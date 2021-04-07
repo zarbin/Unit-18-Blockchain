@@ -12,9 +12,8 @@ I am setting up a testnet as a proof of concept for blockchain usage at ZBank us
 # Instructions
 
 ### Installing dependencies and environment configuration
-Download and Install MyCrpto to be used key mangaement and crypto wallet - https://download.mycrypto.com/
-
-Install Go Ethereeum Tools - https://geth.ethereum.org/downloads/
+* Download and Install MyCrpto to be used key mangaement and crypto wallet - https://download.mycrypto.com/
+* Install Go Ethereeum Tools - https://geth.ethereum.org/downloads/
 
 ### Start the Network
     Initialize the nodes
@@ -65,9 +64,6 @@ Install Go Ethereeum Tools - https://geth.ethereum.org/downloads/
         nodehw1 - ip=127.0.0.1 udp=30303 tcp=30303
         nodehw2 - ip=127.0.0.1 udp=30304 tcp=30304
         MyCrypto URL - http://127.0.0.1:8545
-    
-### MyCrypto Steps
-    test
     
 ### Reference Screenshots
 Network Config
