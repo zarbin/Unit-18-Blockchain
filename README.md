@@ -57,4 +57,5 @@ Proof of Authority Blockchain Development
     test
     
 ### Reference Screenshots
-    test
+    ![Screenshot](/images/startnodehw1.png)
+    ![Screenshot2](/images/startnodehw2.png)
