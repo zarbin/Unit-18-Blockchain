@@ -3,11 +3,11 @@ Proof of Authority Blockchain Development
 
 # Instructions
 
-## Start the Network
+### Start the Network
     test
     
-## Configuration of the Network
+### Configuration of the Network
     test
     
-## MyCrypto Steps
+### MyCrypto Steps
     test
